@@ -12,6 +12,7 @@ loan information and help to faster proceed all the requests.
 To validate New Manufacturing Order is created
 
 Selenium Version : 4.0
+Java Version: 1.8
 Note: No need to download drivers, as selenium 4.0 uses WebDriverManager Interface
 
 Design Pattern:  Page Object Model
