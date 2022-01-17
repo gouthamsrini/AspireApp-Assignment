@@ -22,8 +22,9 @@ Design Pattern:  Page Object Model
 1. Download https://github.com/gouthamsrini/AspireApp-Assignment 
 2. Extract to your workspace
 3. Import the project 
-4. Once fully imported, confirm there are no errors !!
-5. If there are errors,
+4. Under Projects, inside src/main/java folder, import packages given such as base,pages and aspireAppTestCases
+5. Once fully imported, confirm there are no errors !!
+6. If there are errors,
        a) If there are dependencies related errors, update Maven -> force update
        
 6. Execute the testcase from 'AspireAppAssignment.xml' by right click on file and select  Run as --> TestNG Suite
